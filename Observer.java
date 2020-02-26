@@ -1,3 +1,5 @@
+package observer;
+
 public class Observer {
 
     void update() {
