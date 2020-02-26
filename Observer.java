@@ -3,7 +3,7 @@ package observer;
 public class Observer {
 
     void update() {
-        System.out.println("Changed");
+        System.out.println("successfully notified");
     }
      
   
