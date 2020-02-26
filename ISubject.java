@@ -1,3 +1,5 @@
+package observer;
+
 public interface ISubject {
     
     public abstract void register(Observer x) ;
