@@ -1,4 +1,4 @@
-package dz.univ.bechar;
+package observer;
 
 import java.util.ArrayList;
 
